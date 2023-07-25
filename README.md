@@ -2,7 +2,7 @@
 
 Little Lemon Reservation App built with SwiftUI as part of the "Create the User Interface with SwiftUI" course included in the Meta iOS Developer Professional Certificate
 
-![Little Lemon Preview]()
+![Little Lemon Preview](https://www.jaesmadeit.com/assets/img/projects/mobile-apps/littlelemon-preview.png)
 
 ## How to use:
 
